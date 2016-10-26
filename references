@@ -1,0 +1,10 @@
+We looked into various pre-existing algorithms that exist in the vision toolbox in matlab.
+
+Matlab package used : vision toolbox
+
+References for studying above algorithm:
+http://cs.nyu.edu/courses/fall12/CSCI-GA.2560-001/FaceRecognitionBoosting.pdf
+https://in.mathworks.com/help/vision/ref/vision.cascadeobjectdetector-class.html
+
+Video References
+https://youtu.be/_QZLbR67fUU
