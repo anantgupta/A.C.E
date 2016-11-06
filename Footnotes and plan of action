@@ -1,0 +1,9 @@
+The ip file contains the code to change the grayscale image to a binary image. The algorithm is limited by the Viola Jones algorithm's 
+efficiency.
+Run the ACM matlab file where the ip file is copied. 
+
+Future plan of action:
+Edit the code to include image file reading instead of webcam. Sample image provided.
+Use X and y axis to map the movement of black region by seeing the concenration of nodes having value 255. We track the value of x axis 
+with respect to the y axis and according move the options on the front end. 
+Use python as a scripting language to connect the matlab backend with html/css front-end
