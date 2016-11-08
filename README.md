@@ -40,6 +40,6 @@ Aditya Kumar
 
 With invaluable inputs from:
 
-Prof P.V.S.S.R Chandramauli
+Prof P.V.S.S.R Chandramouli
 
 VIT University, Vellore
